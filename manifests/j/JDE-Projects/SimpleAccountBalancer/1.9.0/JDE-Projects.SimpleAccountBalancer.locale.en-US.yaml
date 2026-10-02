@@ -4,8 +4,9 @@ PackageIdentifier: JDE-Projects.SimpleAccountBalancer
 PackageVersion: 1.9.0
 PackageLocale: en-US
 Publisher: JDE-Projects
-PublisherUrl: https://github.com/JDE-Projects
+PublisherUrl: https://jde-projects.com
 PublisherSupportUrl: https://github.com/JDE-Projects/Simple-Account-Balancer/issues
+PrivacyUrl: https://jde-projects.com/privacy
 PackageName: Simple Account Balancer
 PackageUrl: https://github.com/JDE-Projects/Simple-Account-Balancer
 License: PolyForm Noncommercial 1.0.0
